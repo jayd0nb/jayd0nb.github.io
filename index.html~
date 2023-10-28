@@ -3,10 +3,9 @@
 
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Jaydon Bingham</title>
+    <title>Savory</title>
     <link rel="stylesheet" type="text/css" href="reset.css" />
-    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
     <link href="https://fonts.googleapis.com/css?family=Poppins:400,600" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
   </head>
@@ -16,17 +15,10 @@
     <div class="container">
 
       <header>
-        <div class="wrapper">
-          <h1>Jaydon Bingham</h1>
-            <p class="bio"> Hello, My name is Jaydon, and I study Computer Science at Virginia Tech. My family consists of my father, my mother, two half-siblings (considerably older), and a step-sibling (considerably younger). I love all my siblings, and try to maximize time spent with them! Spending time with them is difficult, since they are very spread out across the country. For example, my mom is in Idaho, older brother in Colorado, younger brother and sister in Virginia. I generally am pretty busy with school and extracurricular activities(PAC, research, applying), but in my free time I enjoy hiking, swimming, and cooking. I also like to practice wellness, trying to eat healthy and go to the gym regularly. This site collects some of my digital media-related coursework.
-            </p>
-          <div class="buttonBox">
-            <a class="myButton" href="#projects">Go</a>
-          </div>
-        </div>
+        <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/savory.svg" class="logo">
       </header>
 
-      <main id="projects">
+      <main>
         <div class="recipe a">
           <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-1.png" />
           <h2>CHOCOLATE MOUSSE</h2>

@@ -1,7 +1,6 @@
 /* Set the scroll behavior to smooth so that when you click the in the header, the screen scrolls down rather than jumps */
 html {
   scroll-behavior: smooth;
-  background-color: #caf0f8;
 }
 
 /* Set the margin to 0 to make sure the page stretches all the way to the edge of the browser window. */
@@ -100,7 +99,7 @@ img {
 .recipe {
   box-shadow: 0 1px 1px 0 #03045e;
   width: 100%;
-  background-color: #eefcff;
+  background-color: #f6fdff;
 }
 
 .a {

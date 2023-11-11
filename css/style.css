@@ -16,7 +16,7 @@ footer {
 }
 
 header {
-  font-family: 'Fauna One', serif;
+  font-family: 'Fauna One', 'Times New Roman', serif;
   color: #fff;
   min-height: 100vh;
   display: flex;
@@ -34,7 +34,7 @@ main {
 }
 
 h1 {
-  font-family: 'Cinzel', serif;
+  font-family: 'Cinzel', 'Bitter', serif;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
@@ -42,7 +42,7 @@ h1 {
 }
 
 h2 {
-  font-family: 'Cinzel', serif;
+  font-family: 'Cinzel', 'Bitter', serif;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
@@ -67,7 +67,7 @@ img {
 .bio {
   color: #ffffff;
   font-size: 24px;
-  font-family: 'Fauna One', serif;
+  font-family: 'Fauna One', 'Times New Roman', serif;
 }
 
 .buttonBox {
@@ -114,7 +114,7 @@ img {
 
 .mins {
   display: inline-block;
-  font-family: 'Cinzel', serif;
+  font-family: 'Cinzel', 'Bitter', serif;
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0.3px;
@@ -125,7 +125,7 @@ img {
 }
 
 .description {
-  font-family: 'Fauna One', serif;
+  font-family: 'Fauna One', 'Times New Roman', serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.29;

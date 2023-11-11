@@ -10,14 +10,14 @@ body {
 
 header,
 footer {
-  background-color: #ffa500;
+  background-color: #5e60ce;
   text-align: left;
   /*  min-width: 500px; */
 }
 
 header {
   font-family: 'Fauna One', 'Times New Roman', serif;
-  color: #fff;
+  color: #72efdd;
   min-height: 100vh;
   display: flex;
 }
@@ -47,7 +47,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffa500;
+  color: #5e60ce;
   padding: 10px 0px 10px 10px;
 }
 
@@ -65,7 +65,7 @@ img {
 }
 
 .bio {
-  color: #ffffff;
+  color: #72efdd;
   font-size: 24px;
   font-family: 'Fauna One', 'Times New Roman', serif;
 }
@@ -78,9 +78,9 @@ img {
 
 .myButton {
   border-radius: 28px;
-  border: 1px solid #ffffff;
+  border: 1px solid #72efdd;
   cursor: pointer;
-  color: #ffffff;
+  color: #72efdd;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
@@ -88,7 +88,7 @@ img {
 }
 
 .myButton:hover {
-  background-color: #e69708;
+  background-color: #6930c3;
 }
 
 .myButton:active {

@@ -99,7 +99,7 @@ img {
 .recipe {
   box-shadow: 0 1px 1px 0 #03045e;
   width: 100%;
-  background-color: #f6fdff;
+  background-color: #ffffff;
 }
 
 .a {
@@ -140,10 +140,11 @@ img {
 }
 
 .logo {
-  width: 115px;
+  width: 450px;
   height: 21.1px;
   object-fit: contain;
   padding: 20px;
+  background-color: #023e8a;
 }
 
 .container {

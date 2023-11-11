@@ -139,10 +139,13 @@ img {
   border-top: 1px solid #4a4a4a;
 }
 
-.logo h1 {
+.logo {
   width: 450px;
-  height: 21.1px;
+  height: 100px;
   padding: 20px;
+}
+
+.logo h1 {
   background-color: #023e8a;
   color: #ffffff;
 }

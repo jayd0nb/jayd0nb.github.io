@@ -97,11 +97,10 @@ img {
 }
 
 .project {
-  box-shadow: 0 0px 1px 0 rgb(0 0 0 / 40%);
+  box-shadow: 0 1px 1px 0 #03045e;
   width: 100%;
   background-color: #ffffff;
 }
-
 
 .description {
   font-family: 'Fauna One', 'Times New Roman', serif;
@@ -111,7 +110,8 @@ img {
   letter-spacing: 0.1px;
   text-align: left;
   color: #4a4a4a;
-  padding: 0 20px 20px 20px;
+  padding: 10px 0px 10px 10px;
+  border-top: 1px solid #4a4a4a;
 }
 
 

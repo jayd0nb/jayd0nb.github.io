@@ -100,7 +100,6 @@ img {
   box-shadow: 0 1px 1px 0 #03045e;
   width: 100%;
   background-color: #ffffff;
-  margin-bottom: 10px;
 }
 
 .description {
@@ -119,6 +118,7 @@ img {
 .container {
   /* min-width: 500px; */
   margin: auto;
+  margin-bottom: 25px;
 }
 
 footer div {
